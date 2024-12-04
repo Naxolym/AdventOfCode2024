@@ -1,7 +1,7 @@
 # 🎄 Advent of Code 2024
 
-![Days completed](https://img.shields.io/badge/Days%20Completed-3-green)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-6-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-4-green)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-8-yellow)
 ![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-0-purple)
 ![Not Solved](https://img.shields.io/badge/Not%20Solved%20❌-0-red)
 
@@ -15,6 +15,7 @@ Written in Python to practice on some fun challenges.
 | 01  | [Historian Hysteria][day01] |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-1-1.py) [![Part 2][part2]](aoc-1-2.py) |
 | 02  | [Red-Nosed Reports][day02]  |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-2-1.py) [![Part 2][part2]](aoc-2-2.py) |
 | 03  |    [Mull It Over][day03]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-3-1.py) [![Part 2][part2]](aoc-3-2.py) |
+| 04  |    [Ceres Search][day04]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-4-1.py) [![Part 2][part2]](aoc-4-2.py) |
 
 [day01]: https://adventofcode.com/2024/day/1
 
@@ -64,7 +65,7 @@ Written in Python to practice on some fun challenges.
 
 [day24]: https://adventofcode.com/2024/day/24
 
-[day25]: https://adventofcode.com/2024/day/25
+[day24]: https://adventofcode.com/2024/day/25
 
 [part1]: https://img.shields.io/badge/Part_1-2d618c?style=for-the-badge&logo=Python&logoColor=ffd343
 
