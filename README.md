@@ -1,8 +1,8 @@
 # 🎄 Advent of Code 2024
 
-![Days completed](https://img.shields.io/badge/Days%20Completed-4-green)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-8-yellow)
-![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-0-purple)
+![Days completed](https://img.shields.io/badge/Days%20Completed-5-green)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-10-yellow)
+![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-1-purple)
 ![Not Solved](https://img.shields.io/badge/Not%20Solved%20❌-0-red)
 
 This repository contains my solutions for [Advent of Code 2024](https://adventofcode.com/2024/about).
@@ -15,7 +15,8 @@ Written in Python to practice on some fun challenges.
 | 01  | [Historian Hysteria][day01] |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-1-1.py) [![Part 2][part2]](aoc-1-2.py) |
 | 02  | [Red-Nosed Reports][day02]  |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-2-1.py) [![Part 2][part2]](aoc-2-2.py) |
 | 03  |    [Mull It Over][day03]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-3-1.py) [![Part 2][part2]](aoc-3-2.py) |
-| 04  |    [Ceres Search][day04]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-4-1.py) [![Part 2][part2]](aoc-4-2.py) |
+| 04  |   [Ceres Search,][day04]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-4-1.py) [![Part 2][part2]](aoc-4-2.py) |
+| 05  |    [Print Queue][day05]     |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-5-1.py) [![Part 2][part2]](aoc-5-2.py) |
 
 [day01]: https://adventofcode.com/2024/day/1
 
