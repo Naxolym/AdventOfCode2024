@@ -1,8 +1,8 @@
 # 🎄 Advent of Code 2024
 
-![Days completed](https://img.shields.io/badge/Days%20Completed-8-green)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-16-yellow)
-![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-2-purple)
+![Days completed](https://img.shields.io/badge/Days%20Completed-9-green)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-18-yellow)
+![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-3-purple)
 ![Not Solved](https://img.shields.io/badge/Not%20Solved%20❌-0-red)
 
 This repository contains my solutions for [Advent of Code 2024](https://adventofcode.com/2024/about).
@@ -20,6 +20,7 @@ Written in Python to practice on some fun challenges.
 | 06  |    [Guard Gallivant][day06]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-6-1.py) [![Part 2][part2]](aoc-6-2.py) |
 | 07  |     [Bridge Repair][day07]     |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-7-1.py) [![Part 2][part2]](aoc-7-2.py) |
 | 08  | [Resonant Collinearity][day08] |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-8-1.py) [![Part 2][part2]](aoc-8-2.py) |
+| 09  |    [Disk Fragmenter][day09]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-9-1.py) [![Part 2][part2]](aoc-9-2.py) |
 
 [day01]: https://adventofcode.com/2024/day/1
 
