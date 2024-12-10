@@ -1,7 +1,7 @@
 # 🎄 Advent of Code 2024
 
-![Days completed](https://img.shields.io/badge/Days%20Completed-9-green)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-18-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-10-green)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-20-yellow)
 ![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-3-purple)
 ![Not Solved](https://img.shields.io/badge/Not%20Solved%20❌-0-red)
 
@@ -10,17 +10,18 @@ Written in Python to practice on some fun challenges.
 
 ### Daily Solution Index
 
-| Day |             Title              | Part 1 | Part 2 |                             Code                              |
-|:---:|:------------------------------:|:------:|:------:|:-------------------------------------------------------------:|
-| 01  |  [Historian Hysteria][day01]   |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-1-1.py) [![Part 2][part2]](aoc-1-2.py) |
-| 02  |   [Red-Nosed Reports][day02]   |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-2-1.py) [![Part 2][part2]](aoc-2-2.py) |
-| 03  |     [Mull It Over][day03]      |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-3-1.py) [![Part 2][part2]](aoc-3-2.py) |
-| 04  |     [Ceres Search,][day04]     |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-4-1.py) [![Part 2][part2]](aoc-4-2.py) |
-| 05  |     [Print Queue,][day05]      |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-5-1.py) [![Part 2][part2]](aoc-5-2.py) |
-| 06  |    [Guard Gallivant][day06]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-6-1.py) [![Part 2][part2]](aoc-6-2.py) |
-| 07  |     [Bridge Repair][day07]     |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-7-1.py) [![Part 2][part2]](aoc-7-2.py) |
-| 08  | [Resonant Collinearity][day08] |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-8-1.py) [![Part 2][part2]](aoc-8-2.py) |
-| 09  |    [Disk Fragmenter][day09]    |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-9-1.py) [![Part 2][part2]](aoc-9-2.py) |
+| Day |             Title              | Part 1 | Part 2 |                              Code                               |
+|:---:|:------------------------------:|:------:|:------:|:---------------------------------------------------------------:|
+| 01  |  [Historian Hysteria][day01]   |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-1-1.py) [![Part 2][part2]](aoc-1-2.py)  |
+| 02  |   [Red-Nosed Reports][day02]   |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-2-1.py) [![Part 2][part2]](aoc-2-2.py)  |
+| 03  |     [Mull It Over][day03]      |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-3-1.py) [![Part 2][part2]](aoc-3-2.py)  |
+| 04  |     [Ceres Search,][day04]     |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-4-1.py) [![Part 2][part2]](aoc-4-2.py)  |
+| 05  |     [Print Queue,][day05]      |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-5-1.py) [![Part 2][part2]](aoc-5-2.py)  |
+| 06  |    [Guard Gallivant][day06]    |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-6-1.py) [![Part 2][part2]](aoc-6-2.py)  |
+| 07  |     [Bridge Repair][day07]     |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-7-1.py) [![Part 2][part2]](aoc-7-2.py)  |
+| 08  | [Resonant Collinearity][day08] |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-8-1.py) [![Part 2][part2]](aoc-8-2.py)  |
+| 09  |   [Disk Fragmenter,][day09]    |   ⭐    |   ⭐    |  [![Part 1][part1]](aoc-9-1.py) [![Part 2][part2]](aoc-9-2.py)  |
+| 10  |        [Hoof It][day10]        |   ⭐    |   ⭐    | [![Part 1][part1]](aoc-10-1.py) [![Part 2][part2]](aoc-10-2.py) |
 
 [day01]: https://adventofcode.com/2024/day/1
 
